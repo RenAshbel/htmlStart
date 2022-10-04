@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./basico.css">
+</head>
+<body>
+<div> <b>En este reto solo se permite utilizar el archivo <b class="verde">style.css</b> para agregar estilos</b>  </div>
+  <div>puede ser de utildad investigar la etiqueta <b class="verde">span</b>  sin embargo es posible resolver el reto sin ella</div>
+<br>
+
+  <div class="verde texto-xs">texto muy pequeño</div><br>
+  <div class="rojo texto-sm" >texto pequeño</div><br>
+  <div class="azul texto-md" >texto mediano</div><br>
+  <div class="tomate texto-lg" >texto grande</div><br>
+   <div class="fondo-negro blanco">como <b class="verde">combinarias</b>  las clases para que el texto te salga <i class="azul">identico</i>  al que estad <u class="amarillo">viendo?</u> </div> <br> <br>
+<div>el texto de abajo esta en negrita</div>
+<div><strong>no uses la etiqueta</strong>  <u class="rojo texto-grueso">b</u>  </div>
+
+
+</body>
+</html>
