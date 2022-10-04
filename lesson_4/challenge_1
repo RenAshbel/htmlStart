@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<div><span style="color:red ;">Usa</span> la <span style="color:green ;">etiqueta</span>  <b>span</b></div>
+<div>para agrupar</div>
+<div><span style="color:purple  ;">elementos en linea y </span>estilizar </div>
+<div style="color:blue ;">textos,</div>
+<div><b style="color:pink ;">palabras o</b> </div>
+<div><b>letras</b>  </div>
+<div>dentro de un  <i style="color:yellow ; background-color :black ">parrafo</i>  </div>
+
+</body>
+</html>
