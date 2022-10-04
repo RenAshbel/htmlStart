@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+        .rojo{color: red;}
+        .verde{color:green ;}
+        .morado{color: purple;}
+        .azul{color: blue;}
+        .rosa{color: pink;}
+        .amarillo{color: yellow;}
+        .fondoNegro{background-color: black;}
+   </style>
+    <title>Document</title>
+</head>
+<body>
+            <div><span class="rojo">Usa</span> la <span class="verde" >etiqueta</span>  <b>span</b></div>
+            <div>para agrupar</div>
+            <div><span class="morado" >elementos en linea y </span>estilizar </div>
+            <div class="azul">textos,</div>
+            <div><b class="rosa">palabras o</b> </div>
+            <div><b>letras</b>  </div>
+            <div>dentro de un  <i class="fondoNegro amarillo">parrafo</i>  </div>
+</body>
+</html>
